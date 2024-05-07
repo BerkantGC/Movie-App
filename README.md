@@ -18,4 +18,4 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to seen in emulator!
 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Project video demo: https://www.youtube.com/watch?v=thdZM2boVQM
